@@ -3,7 +3,7 @@ This program enables the HU (Head Unit) CD Changer / AUX audio input on Toyota H
 
 Pressing CD button while no CD in rom will toggle the CD Changer/AUX input mode.
 
-#### Sources from http://www.compcar.ru/forum/showthread.php?t=4835, https://github.com/KostyaSha/arduino-iebus
+#### Sources from http://www.compcar.ru/forum/showthread.php?t=4835,   https://github.com/KostyaSha/arduino-iebus    http://softservice.com.pl/corolla/avc/index.php
 ----
 Modified for handling the Toyota Avanza, HU Fujitsu Ten 86180-BZ380
 
